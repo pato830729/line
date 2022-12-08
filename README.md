@@ -6,4 +6,4 @@
 ## 2. 機器人使用方式：
 #### 留言輸入想查詢的博物館名稱即可
 ###### (會搜尋與名稱相符的第一筆資料回傳)
-![image]([https://github.com/pato830729/line/blob/master/625kozgq.png](https://github.com/pato830729/line/blob/master/demo.png))
+![image](https://github.com/pato830729/line/blob/master/demo.png)
