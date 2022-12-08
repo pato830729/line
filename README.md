@@ -1,3 +1,4 @@
 # Line Chatbot: 台灣博物館查詢小幫手
-###### Add me on Line:
-###### ID: @560xwtfv
+###### 機器人加入方式：
+###### 搜尋加入好友 ID:@625kozgq
+###### 或是掃描QRcode加入好友
